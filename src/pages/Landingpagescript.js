@@ -53,14 +53,12 @@ document.addEventListener("DOMContentLoaded", function () {
     const planButtons = document.querySelectorAll(".plan_single_box .btn");
     const planCards = document.querySelectorAll(".plan_single_box");
     let selectedPlan = document.querySelector(".plan_single_box.plan_selected");
-    // console.log(planButtons)
 
     // Initially select the Premium Plan
     if (selectedPlan === null) {
         selectedPlan = document.querySelector(".plan_single_box:nth-child(3)");
         selectedPlan.classList.add("plan_selected");
         selectedPlan.querySelector(".btn").classList.add("btn_selected");
-        // selectedPlan.querySelector(".emptydiv-shadow").classList.add("shadow_selected");
         selectedPlan.style.border = "2px solid #F53838";
     }
 
@@ -69,14 +67,12 @@ document.addEventListener("DOMContentLoaded", function () {
             // Remove previous selection
             selectedPlan.classList.remove("plan_selected");
             selectedPlan.querySelector(".btn").classList.remove("btn_selected");
-            // selectedPlan.querySelector(".emptydiv-shadow").classList.remove("shadow_selected");
             selectedPlan.style.border = "2px solid grey";
 
             // Update selected plan
             selectedPlan = planCards[index];
             selectedPlan.classList.add("plan_selected");
             selectedPlan.querySelector(".btn").classList.add("btn_selected");
-            // selectedPlan.querySelector(".emptydiv-shadow").classList.add("shadow_selected");
             selectedPlan.style.border = "2px solid #F53838";
         });
     });
