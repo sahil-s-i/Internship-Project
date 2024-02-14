@@ -59,10 +59,7 @@ ul li a span {
   border-radius: 25px;
   font-weight: 500;
   font-size: 0.8rem !important;
-  /* color: var(--color-light-saf) !important; */
 }
-
-
 
 /* about section  */
 
@@ -120,8 +117,6 @@ ul li a span {
 }
 
 /* user box  */
-
-
 
 .user_box {
   max-width: 70vw;
@@ -207,7 +202,6 @@ ul li a span {
   font-size: 2rem;
   font-weight: 500;
   padding: 1rem 0px;
-  /* margin: 0px 0px 0px 0px !important; */
 }
 
 .desc {
@@ -222,7 +216,6 @@ ul li a span {
 
 .plans {
   background-color: #f9f9f9;
-  /* background-color: #d62020; */
   padding-bottom: 5rem;
 }
 
@@ -388,7 +381,6 @@ ul li a span {
 }
 
 .name p {
-  /* font-size: 0.9rem; */
   font-size: 0.88rem;
   color: #4F5665;
 }
@@ -448,7 +440,6 @@ ul li a span {
 
 .points_btns {
   width: 88vw;
-  /* margin: 2px auto; */
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -498,12 +489,10 @@ ul li a span {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  /* border: 2px solid red; */
   padding: 2.2rem 3.5rem;
   position: relative;
   background-color: #FFFFFF;
   top: 90px;
-  /* box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2); */
   box-shadow: 1px 2px 9px -3px rgba(0, 0, 0, 0.5);
   border-radius: 5px;
 
@@ -562,14 +551,12 @@ ul li a span {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  /* flex-basis: 50%; */
   margin: 2px auto;
   padding-top: 10rem;
 
 }
 
 .logoandlinks {
-  /* width: 12rem; */
   max-width: 25vw;
 
 }
@@ -664,7 +651,6 @@ ul li a span {
 @media screen and (min-width: 620px) and (max-width: 990px) {
   .collapse {
     max-width: 80vw;
-    /* margin: 2px auto; */
   }
 
   .active {
@@ -672,7 +658,6 @@ ul li a span {
   }
 
   .navitems {
-    /* display: flex; */
     justify-content: space-evenly;
     /* align-items: center; */
     margin: 0px 0rem;
