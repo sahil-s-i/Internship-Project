@@ -659,7 +659,6 @@ ul li a span {
 
   .navitems {
     justify-content: space-evenly;
-    /* align-items: center; */
     margin: 0px 0rem;
   }
 
@@ -670,7 +669,6 @@ ul li a span {
 
   .about_text .about_head {
     font-size: 1.9rem;
-    /* font-weight: 400; */
     line-height: 2.8rem;
   }
 
@@ -693,12 +691,10 @@ ul li a span {
   }
 
   .sep_line {
-    /* position: relative; */
     left: 2rem;
   }
 
   .feature_title {
-    /* color: var(--color-gray); */
     font-size: 1.8rem;
   }
 
@@ -711,17 +707,14 @@ ul li a span {
   }
 
   .logoandlinks {
-    /* width: 12rem; */
     max-width: 50vw;
   }
 
   .subscribe_head {
-    /* font-weight: 500; */
     font-size: 1.8rem;
   }
 
   .logoandlinks .active {
-    /* width: 12rem; */
     margin: 0rem -2rem;
   }
 }
@@ -730,7 +723,6 @@ ul li a span {
 
   .collapse {
     max-width: 80vw;
-    /* margin: 2px auto; */
   }
 
   .active {
@@ -738,9 +730,7 @@ ul li a span {
   }
 
   .navitems {
-    /* display: flex; */
     justify-content: space-evenly;
-    /* align-items: center; */
     margin: 0px 0rem;
     flex-direction: column;
   }
@@ -748,7 +738,6 @@ ul li a span {
 
 
   .collapse .btn {
-    /* margin: 0rem 3rem; */
     margin: 1rem auto;
 
   }
@@ -767,7 +756,6 @@ ul li a span {
 
   .about_text .about_head {
     font-size: 1.9rem;
-    /* font-weight: 400; */
     line-height: 2.8rem;
   }
 
@@ -793,9 +781,7 @@ ul li a span {
   }
 
   .one .sep_line {
-    /* position: relative; */
     transform: rotate(90deg);
-    /* right: 3rem; */
     top: 3rem;
     left: -4rem;
   }
@@ -825,7 +811,6 @@ ul li a span {
   }
 
   .single_card {
-    /* width: 22rem; */
     height: 17rem;
   }
 
@@ -834,7 +819,6 @@ ul li a span {
   }
 
   .left_right {
-    /* margin-right: 6rem; */
     margin: 1rem 0;
   }
 
@@ -851,23 +835,18 @@ ul li a span {
   }
 
   .logoandlinks {
-    /* width: 12rem; */
     max-width: 50vw;
   }
 
   .subscribe_head {
-    /* font-weight: 500; */
     font-size: 0.8rem;
   }
 
   .logoandlinks .active {
-    /* width: 12rem; */
     margin: 0rem -2rem;
   }
 
   .footer_subitems {
     flex-direction: column;
   }
-
-
 }
