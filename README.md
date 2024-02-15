@@ -10,15 +10,12 @@ This project is a web application aimed at providing a user-friendly interface f
 
 
 ## Table of Contents
-- [React VPN Landing Page (Internship)](#react-vpn-landing-page-internship)
-  - [Description](#description)
-  - [Table of Contents](#table-of-contents)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Tech Stack](#tech-stack)
-  - [Features](#features)
-  - [Contributing](#contributing)
-  - [Contact](#contact)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Tech Stack](#tech-stack)
+- [Features](#features)
+- [Contributing](#contributing)
+- [Contact](#contact)
 
 ## Installation 
 
