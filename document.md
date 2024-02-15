@@ -2,13 +2,11 @@
 
 ## Table of Contents
 
-- [Project Documentation](#project-documentation)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Tech Stack](#tech-stack)
-  - [Running the Project Locally](#running-the-project-locally)
-  - [Deployment Procedures](#deployment-procedures)
-  - [Additional Information](#additional-information)
+- [Introduction](#introduction)
+- [Tech Stack](#tech-stack)
+- [Running the Project Locally](#running-the-project-locally)
+- [Deployment Procedures](#deployment-procedures)
+- [Additional Information](#additional-information)
 
 ## Introduction 
 This documentation provides guidance on running the project locally, deployment procedures, and additional information about the project.
