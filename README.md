@@ -90,7 +90,5 @@ Contributions are welcome! Follow these steps to contribute to the project:
 
 ## Contact 
 
-- **Maintainer:** [Sahil](https://github.com/sahil-s-i)
-- **Email:** sahilismailnavar@gmail.com
-- **LinkedIn:** [Sahil Ismailnavar](https://www.linkedin.com/in/sahil-ismailnavar/)
-- **Twitter:** [@Sahil_S_I](https://twitter.com/Sahil_S_I)
+- **Maintainer:** [kammarichandrakala](https://github.com/kammarichandrakala/Figma-Design.git)
+- **Email:** chandrakala2001.k@gmail.com
