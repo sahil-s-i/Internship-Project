@@ -5,7 +5,8 @@
 **A customizable React landing page template with modern design and smooth scrolling. Built using React, React Router, and styled with CSS. Easily deployable and ready for customization to suit various project needs.**
 
 
-This project is a web application aimed at providing a user-friendly interface for creating and showcasing landing pages. It offers a modern and visually appealing design along with various features to attract and engage users. The application includes sections such as navigation, about, features, plans, location map, testimonials, and a subscription form. It utilizes React.js for front-end development and includes CSS styling for responsive and dynamic layouts. With its easy-to-use interface and customizable components, this application serves as a versatile tool for individuals and businesses to create impressive landing pages for their products or services.
+This project is a web application aimed at providing a 
+user-friendly interface for creating and showcasing landing pages. It offers a modern and visually appealing design along with various features to attract and engage users. The application includes sections such as navigation, about, features, plans, location map, testimonials, and a subscription form. It utilizes React.js for front-end development and includes CSS styling for responsive and dynamic layouts. With its easy-to-use interface and customizable components, this application serves as a versatile tool for individuals and businesses to create impressive landing pages for their products or services.
 
 
 
